@@ -17,4 +17,4 @@ INSERT INTO Employee (EmpID, Name, Department, Salary, Age, City) VALUES
 (106, 'Divya', 'HR', 50000, 24, 'Erode'),
 (107, 'Vijay', 'Finance', 65000, 32, 'Trichy'),
 (108, 'Anitha', 'Marketing', 48000, 26, 'Chennai');
-select*FROM table employee;
+
